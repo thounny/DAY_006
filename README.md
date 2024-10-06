@@ -180,7 +180,7 @@ ScrollTrigger.create({
   --pastel-pink: #FFD1DC;
   --pastel-blue: #AEC6CF;
   --pastel-green: #77DD77;
-  --pastel-purple: #CFCFC4;
+  --pastel-purple: #C5BBDE;
   ```
 
 - **Responsive Design**: Media queries adjust the layout for smaller screen sizes.
